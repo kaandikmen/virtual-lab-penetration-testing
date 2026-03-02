@@ -71,3 +71,11 @@ The target system exposes multiple high-risk services,
 indicating poor security configuration.
 
 ## Scan Output Screenshot
+### Initial Scan
+![Nmap Scan](../images/nmap1.png)
+
+### FTP Service
+![Nmap Scan](../images/nmap2.png)
+
+### Samba Detection
+![Nmap Scan](../images/nmap3.png)
